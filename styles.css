@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table{
+	width:100%;
+}
+.html{
+	background-color:black;
+	color:white;
+}
