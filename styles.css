@@ -1,9 +1,10 @@
 
 /* Your CSS Code here. */
-table{
-	width:100%;
-}
 .html{
 	background-color:black;
 	color:white;
+}
+table{
+	text-align:center;
+	width:100%;
 }
